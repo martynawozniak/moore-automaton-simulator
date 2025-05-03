@@ -2,6 +2,10 @@
 
 This project is a **dynamic C library** implementing a simulator for Moore finite state machines (FSM). The library supports creating automata with customizable transition and output functions, connecting and disconnecting automata, and simulating synchronous steps across multiple machines.
 
+## Notes
+
+This project was implemented as part of an academic assignment in the course **Computer Architecture and Operating Systems**
+
 ## Features
 
 - Memory safety with error handling and support for valgrind verification.
