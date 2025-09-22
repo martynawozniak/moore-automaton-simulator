@@ -29,16 +29,6 @@ project-root/
 
 ## How to Build and Run
 
-This project requires **Linux** and the **GCC toolchain**.
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- `gcc`
-- `make`
-
-### Run the Example
 To build and run the example program using the library:
 
 ```bash
